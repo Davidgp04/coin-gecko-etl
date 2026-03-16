@@ -1,3 +1,4 @@
 .env
 output_examples.txt
 code_to_review.py
+snapshots/*
